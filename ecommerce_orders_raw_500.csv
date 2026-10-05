@@ -1,0 +1,511 @@
+Order_ID,Customer_ID,Customer_Name,Order_Date,Product,Category,Quantity,Unit_Price,Discount,City,Payment_Method,Order_Status
+ORD0481,CUST0111,Neha Kapoor,2026-01-27 00:00:00,Laptop Stand,Accessories,3,1499,0.2,Hyderabad,Credit Card,Processing
+ORD0450,CUST0104,Aisha Khan,2026-07-23 00:00:00,Monitor,Electronics,1,12999,0.1,Pune,UPI,Delivered
+ORD0476,CUST0145,Ananya Das,2026-04-08 00:00:00,Wireless Mouse,Accessories,1,799,0.2,Bengaluru,UPI,Delivered
+ORD0435,CUST0069,Rohan Gupta,2026-03-05 00:00:00,Laptop Stand,Accessories,2,1499,0.2,Hyderabad,Debit Card,Processing
+ORD0369,CUST0028,Sneha Iyer,2026-06-22 00:00:00,Wireless Mouse,Accessories,0,799,0.0,Delhi,Cash on Delivery,Processing
+ORD0056,CUST0029,Karan Mehta,2026-02-16 00:00:00,Webcam,Electronics,2,2499,0.0,Pune,Credit Card,Returned
+ORD0323,CUST0120,Neha Kapoor,2026-06-11 00:00:00,USB-C Hub,Accessories,4,1799,0.05,Delhi,Debit Card,Delivered
+ORD0077,CUST0126,Aisha Khan,2026-05-28 00:00:00,Webcam,Electronics,2,2499,0.15,Chennai,Debit Card,Shipped
+ORD0461,CUST0078,Aisha Khan,2026-02-15 00:00:00,Headphones,Electronics,2,2999,0.2,Kolkata,Credit Card,Delivered
+ORD0348,CUST0131,Neha Kapoor,2026-02-13 00:00:00,Wireless Mouse,Accessories,1,799,0.0,Mumbai,Cash on Delivery,Processing
+ORD0416,CUST0102,Rahul Sharma,2026-07-09 00:00:00,Monitor,Electronics,3,12999,0.1,Delhi,Cash on Delivery,Delivered
+ORD0221,CUST0134,Aisha Khan,2026-01-22 00:00:00,Desk Lamp,Home Office,4,999,0.05,Kolkata,Debit Card,Delivered
+ORD0118,CUST0020,Rahul Sharma,2026-05-20 00:00:00,USB-C Hub,Accessories,3,1799,0.0,Mumbai,Credit Card,Delivered
+ORD0250,CUST0143,Rahul Sharma,2026-03-17 00:00:00,Monitor,Electronics,1,12999,0.05,Kolkata,Debit Card,Shipped
+ORD0174,CUST0108,Priya Nair,2026-05-11 00:00:00,Laptop Stand,Accessories,2,1499,0.2,Delhi,Cash on Delivery,Delivered
+ORD0094,CUST0112,Vikram Singh,2026-07-26 00:00:00,Laptop Stand,Accessories,1,1499,0.2,Chennai,Credit Card,Shipped
+ORD0326,CUST0146,Sneha Iyer,2026-04-23 00:00:00,Monitor,Electronics,1,12999,0.1,Hyderabad,Debit Card,Processing
+ORD0276,CUST0118,Karan Mehta,2026-07-31 00:00:00,Keyboard,Accessories,4,1299,0.15,Bengaluru,UPI,Shipped
+ORD0343,CUST0085,Karan Mehta,2026-01-02 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Mumbai,Credit Card,Delivered
+ORD0071,CUST0142,Aisha Khan,2026-05-13 00:00:00,Wireless Mouse,Accessories,3,799,0.1,Kolkata,UPI,Delivered
+ORD0156,CUST0081,Aisha Khan,2026-06-07 00:00:00,USB-C Hub,Accessories,4,1799,0.1,Pune,Debit Card,Processing
+ORD0010,CUST0014,Neha Kapoor,2026-07-25 00:00:00,Wireless Mouse,Accessories,4,799,0.15,Bengaluru,Credit Card,Delivered
+ORD0251,CUST0049,Rahul Sharma,2026-02-04 00:00:00,USB-C Hub,Accessories,1,1799,0.15,Pune,Credit Card,Delivered
+ORD0409,CUST0103,Sneha Iyer,2026-08-31 00:00:00,USB-C Hub,Accessories,3,-1000,0.0,Hyderabad,Debit Card,Delivered
+ORD0424,CUST0127,Rahul Sharma,2026-06-13 00:00:00,USB-C Hub,Accessories,4,1799,0.1,Mumbai,Debit Card,Delivered
+ORD0452,CUST0057,Karan Mehta,2026-08-16 00:00:00,Monitor,Electronics,4,12999,0.2,Kolkata,Cash on Delivery,Processing
+ORD0173,CUST0082,Sneha Iyer,2026-06-16 00:00:00,Keyboard,Accessories,3,1299,0.1,Mumbai,Debit Card,Processing
+ORD0031,CUST0042,Arjun Rao,2026-01-07 00:00:00,Monitor,Electronics,2,12999,0.15,Mumbai,Cash on Delivery,Delivered
+ORD0449,CUST0122,Aisha Khan,2026-08-18 00:00:00,Keyboard,Accessories,1,1299,0.0,Hyderabad,Debit Card,Processing
+ORD0091,CUST0110,Rahul Sharma,2026-02-20 00:00:00,Webcam,Electronics,2,2499,0.2,Chennai,Cash on Delivery,Delivered
+ORD0382,CUST0142,Arjun Rao,2026-06-25 00:00:00,Laptop Stand,Accessories,3,1499,0.2,Hyderabad,Cash on Delivery,Delivered
+ORD0132,CUST0068,Priya Nair,2026-06-04 00:00:00,Webcam,Electronics,3,2499,0.1,Delhi,Cash on Delivery,Delivered
+ORD0365,CUST0145,Vikram Singh,2026-05-17 00:00:00,USB-C Hub,Accessories,4,1799,0.1,Hyderabad,Unknown,Cancelled
+ORD0074,CUST0083,Neha Kapoor,2026-08-28 00:00:00,Webcam,Electronics,1,2499,0.2,Bengaluru,Credit Card,Processing
+ORD0211,CUST0084,Sneha Iyer,2026-01-09 00:00:00,Headphones,Electronics,4,2999,0.0,Hyderabad,Debit Card,Shipped
+ORD0330,CUST0147,Aisha Khan,2026-02-04 00:00:00,Keyboard,Accessories,1,1299,0.05,delhi,UPI,Processing
+ORD0370,CUST0142,Neha Kapoor,2026-06-15 00:00:00,USB-C Hub,Accessories,3,1799,0.2,Chennai,Cash on Delivery,Delivered
+ORD0102,CUST0022,Karan Mehta,2026-11-03 00:00:00,Wireless Mouse,Accessories,1,799,-0.1,Chennai,UPI,Delivered
+ORD0219,CUST0073,Vikram Singh,2026-08-11 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Mumbai,Cash on Delivery,Cancelled
+ORD0155,CUST0137,Priya Nair,2026-02-22 00:00:00,Webcam,Electronics,1,2499,0.15,Delhi,Cash on Delivery,Returned
+ORD0226,CUST0135,Rahul Sharma,2026-04-04 00:00:00,Monitor,Electronics,1,12999,0.2,Kolkata,Credit Card,Shipped
+ORD0400,CUST0047,Sneha Iyer,2026-01-19 00:00:00,Laptop Stand,Accessories,1,1499,0.2,Mumbai,Cash on Delivery,Delivered
+ORD0064,CUST0075,Neha Kapoor,2026-06-13 00:00:00,Wireless Mouse,Accessories,1,799,0.0,Chennai,UPI,Delivered
+ORD0003,CUST0038,Priya Nair,2026-07-11 00:00:00,USB-C Hub,Accessories,2,1799,0.15,Chennai,UPI,Delivered
+ORD0442,CUST0105,Vikram Singh,2026-08-21 00:00:00,Desk Lamp,Home Office,2,999,0.2,Mumbai,UPI,Processing
+ORD0341,CUST0071,Ananya Das,2026-02-02 00:00:00,Monitor,Electronics,2,12999,0.0,Chennai,UPI,Cancelled
+ORD0083,CUST0090,Neha Kapoor,2026-07-05 00:00:00,USB-C Hub,Accessories,4,1799,0.15,Mumbai,Cash on Delivery,Delivered
+ORD0285,CUST0141,Karan Mehta,2026-08-14 00:00:00,Headphones,Electronics,1,2999,0.2,Mumbai,Cash on Delivery,Delivered
+ORD0210,CUST0122,Arjun Rao,2026-05-28 00:00:00,Desk Lamp,Home Office,4,999,0.0,Pune,Credit Card,Delivered
+ORD0472,CUST0071,Rahul Sharma,2026-03-08 00:00:00,Laptop Stand,Accessories,1,1499,0.15,Hyderabad,UPI,Delivered
+ORD0182,CUST0124,Ananya Das,2026-02-08 00:00:00,Webcam,Electronics,1,2499,0.1,Pune,UPI,Returned
+ORD0078,CUST0092,Rohan Gupta,2026-07-10 00:00:00,Laptop Stand,Accessories,3,1499,0.15,Bengaluru,UPI,Cancelled
+ORD0297,CUST0042,Rahul Sharma,2026-04-15 00:00:00,Wireless Mouse,Accessories,1,799,0.0,Bengaluru,UPI,Shipped
+ORD0453,CUST0075,Neha Kapoor,2026-08-13 00:00:00,Laptop Stand,Accessories,4,1499,0.0,Chennai,Credit Card,Delivered
+ORD0496,CUST0014,Priya Nair,2026-07-08 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Delhi,UPI,Processing
+ORD0426,CUST0034,Arjun Rao,2026-05-03 00:00:00,USB-C Hub,Accessories,1,1799,0.05,Bengaluru,Debit Card,Processing
+ORD0034,CUST0116,Rahul Sharma,2026-07-19 00:00:00,Laptop Stand,Accessories,4,1499,0.15,PUNE,Cash on Delivery,Shipped
+ORD0080,CUST0147,Sneha Iyer,2026-07-04 00:00:00,Desk Lamp,Home Office,2,999,,Kolkata,UPI,Delivered
+ORD0418,CUST0072,Sneha Iyer,2026-06-22 00:00:00,Monitor,Electronics,1,12999,0.0,Bengaluru,UPI,Delivered
+ORD0168,CUST0049,Rahul Sharma,2026-03-15 00:00:00,Keyboard,Accessories,3,1299,0.0,Kolkata,UPI,Delivered
+ORD0069,CUST0052,Arjun Rao,2026-04-21 00:00:00,Monitor,Electronics,4,12999,0.2,Chennai,Debit Card,Shipped
+ORD0001,CUST0093,,2026-07-08 00:00:00,Monitor,Electronics,4,12999,0.2,Kolkata,Credit Card,Delivered
+ORD0085,CUST0046,Arjun Rao,2026-05-14 00:00:00,Webcam,Electronics,1,2499,0.05,Delhi,Cash on Delivery,Delivered
+ORD0012,CUST0015,Rahul Sharma,2026-03-30 00:00:00,Webcam,Electronics,0,2499,0.0,Bengaluru,Cash on Delivery,Delivered
+ORD0230,CUST0099,Aisha Khan,2026-01-08 00:00:00,Webcam,Electronics,3,2499,0.15,Pune,Debit Card,Shipped
+ORD0023,CUST0096,Neha Kapoor,2026-08-21 00:00:00,Keyboard,Accessories,2,1299,0.15,Bengaluru,Credit Card,Returned
+ORD0324,CUST0063,Arjun Rao,2026-05-30 00:00:00,Keyboard,Accessories,1,1299,0.2,Hyderabad,Credit Card,Returned
+ORD0079,CUST0134,Aisha Khan,2026-02-13 00:00:00,Headphones,Electronics,1,2999,0.2,Chennai,UPI,Delivered
+ORD0248,CUST0068,Priya Nair,2026-05-05 00:00:00,Webcam,Electronics,1,2499,0.15,Pune,Debit Card,Processing
+ORD0073,CUST0141,Neha Kapoor,2026-06-19 00:00:00,Monitor,Electronics,2,12999,0.0,Mumbai,Debit Card,Shipped
+ORD0001,CUST0116,Vikram Singh,2026-01-10 00:00:00,Webcam,Electronics,4,2499,0.1,Delhi,UPI,Delivered
+ORD0336,CUST0107,Sneha Iyer,2026-03-23 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Delhi,UPI,Delivered
+ORD0019,CUST0036,Vikram Singh,2026-07-06 00:00:00, Keyboard ,Accessories,1,1299,0.1,Pune,Cash on Delivery,Cancelled
+ORD0281,CUST0082,Arjun Rao,2026-06-07 00:00:00,Laptop Stand,Accessories,2,1499,0.05,Pune,Credit Card,Processing
+ORD0125,CUST0005,Arjun Rao,2026-05-03 00:00:00,Keyboard,Accessories,1,1299,0.05,Pune,Cash on Delivery,Delivered
+ORD0443,CUST0016,Rohan Gupta,2026-03-14 00:00:00,Monitor,Electronics,2,12999,0.1,Pune,Cash on Delivery,Shipped
+ORD0249,CUST0023,Arjun Rao,2026-04-19 00:00:00,Wireless Mouse,Accessories,1,799,0.1,Bengaluru,Cash on Delivery,Delivered
+ORD0040,CUST0035,Rahul Sharma,2026-01-17 00:00:00,Keyboard,Accessories,4,1299,0.15,Hyderabad,Credit Card,Returned
+ORD0461,CUST0078,Aisha Khan,2026-02-15 00:00:00,Headphones,Electronics,2,2999,0.2,Kolkata,Credit Card,Delivered
+ORD0047,CUST0032,Vikram Singh,2026-07-10 00:00:00,Wireless Mouse,Accessories,2,799,0.1,Bengaluru,Credit Card,Delivered
+ORD0302,CUST0110,Sneha Iyer,INVALID_DATE,Desk Lamp,Home Office,2,999,0.15,Kolkata,Debit Card,Shipped
+ORD0196,CUST0082,Sneha Iyer,2026-01-02 00:00:00,Headphones,Electronics,0,2999,0.2,Chennai,Cash on Delivery,Delivered
+ORD0359,CUST0131,Aisha Khan,2026-08-28 00:00:00,USB-C Hub,Accessories,4,1799,0.2,Hyderabad,Cash on Delivery,Delivered
+ORD0105,CUST0047,Neha Kapoor,2026-08-02 00:00:00,Webcam,Electronics,4,2499,0.05,Hyderabad,Debit Card,Delivered
+ORD0282,CUST0014,Rohan Gupta,2026-05-23 00:00:00,Desk Lamp,Home Office,3,999,0.2,Delhi,Credit Card,Delivered
+ORD0149,CUST0067,Neha Kapoor,2026-08-03 00:00:00,Laptop Stand,Accessories,3,1499,0.1,Kolkata,UPI,Delivered
+ORD0156,CUST0081,Aisha Khan,2026-06-07 00:00:00,USB-C Hub,Accessories,4,1799,0.1,Pune,Debit Card,Processing
+ORD0447,CUST0013,Karan Mehta,2026-04-12 00:00:00,Wireless Mouse,Accessories,2,799,0.05,Pune,UPI,Delivered
+ORD0183,CUST0004,Neha Kapoor,2026-05-28 00:00:00,Monitor,Electronics,4,12999,0.2,Kolkata,Credit Card,Shipped
+ORD0070,CUST0053,,2026-05-24 00:00:00,USB-C Hub,Accessories,3,1799,0.0,Kolkata,UPI,Returned
+ORD0245,CUST0136,Neha Kapoor,2026-04-23 00:00:00,Laptop Stand,Accessories,2,1499,0.15,,Cash on Delivery,Processing
+ORD0299,CUST0034,Neha Kapoor,2026-07-06 00:00:00,Webcam,Electronics,4,2499,0.0,KOLKATA,UPI,Delivered
+ORD0413,CUST0098,Ananya Das,2026-06-22 00:00:00,Keyboard,Accessories,1,1299,0.15,Pune,UPI,Shipped
+ORD0014,CUST0041,Vikram Singh,2026-07-20 00:00:00,Monitor,Electronics,2,12999,0.15,Mumbai,UPI,Delivered
+ORD0303,CUST0005,Karan Mehta,2026-04-04 00:00:00,USB-C Hub,Accessories,3,1799,0.05,Pune,Debit Card,Delivered
+ORD0494,CUST0065,Rahul Sharma,2026-07-14 00:00:00,Monitor,Electronics,1,12999,0.05,Kolkata,Cash on Delivery,Processing
+ORD0181,CUST0073,Rahul Sharma,2026-05-01 00:00:00,Headphones,Electronics,3,2999,0.15,Hyderabad,Debit Card,Returned
+ORD0375,CUST0137,Sneha Iyer,2026-02-04 00:00:00,Keyboard,Accessories,4,1299,0.0,Mumbai,Cash on Delivery,Returned
+ORD0133,CUST0069,Sneha Iyer,2026-01-11 00:00:00,Keyboard,Accessories,3,1299,0.05,Pune,Credit Card,Delivered
+ORD0342,CUST0086,Rahul Sharma,2026-01-17 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Pune,Credit Card,Delivered
+ORD0438,CUST0060,Rohan Gupta,2026-04-30 00:00:00,Wireless Mouse,Accessories,1,799,0.05,Kolkata,Debit Card,Delivered
+ORD0177,CUST0013,Priya Nair,2026-06-09 00:00:00,Headphones,Electronics,3,2999,0.1,Delhi,Debit Card,Delivered
+ORD0311,CUST0126,Neha Kapoor,2026-02-15 00:00:00,Headphones,Electronics,1,2999,0.15,Delhi,Cash on Delivery,Delivered
+ORD0350,CUST0012,Aisha Khan,2026-01-08 00:00:00,Keyboard,Accessories,4,1299,0.15,Hyderabad,UPI,Delivered
+ORD0486,CUST0141,Vikram Singh,2026-02-27 00:00:00,USB-C Hub,Accessories,2,1799,0.05,Pune,Credit Card,Processing
+ORD0138,CUST0063,Ananya Das,2026-02-24 00:00:00,Laptop Stand,Accessories,1,1499,0.1,Kolkata,UPI,Delivered
+ORD0498,CUST0064,Arjun Rao,2026-05-27 00:00:00,Webcam,Electronics,4,2499,0.15,Delhi,Unknown,Cancelled
+ORD0272,CUST0086,Ananya Das,2026-05-10 00:00:00,Wireless Mouse,Accessories,3,799,,Mumbai,Credit Card,Delivered
+ORD0441,CUST0048,Vikram Singh,2026-01-28 00:00:00,Webcam,Electronics,2,2499,0.0,Delhi,Debit Card,Delivered
+ORD0354,CUST0110,Ananya Das,2026-01-19 00:00:00,USB-C Hub,Accessories,2,1799,0.0,Hyderabad,Debit Card,Delivered
+ORD0087,CUST0118,Rahul Sharma,2026-05-26 00:00:00,Desk Lamp,Home Office,1,999,0.0,Delhi,UPI,Shipped
+ORD0076,CUST0091,Aisha Khan,2026-03-31 00:00:00,Headphones,Electronics,3,2999,0.1,Kolkata,Credit Card,Delivered
+ORD0448,CUST0131,Ananya Das,2026-01-17 00:00:00,Wireless Mouse,Accessories,3,799,0.15,Pune,Cash on Delivery,Delivered
+ORD0016,CUST0131,Rahul Sharma,2026-01-05 00:00:00,Monitor,Electronics,2,12999,0.05,Kolkata,Debit Card,Delivered
+ORD0204,CUST0075,Sneha Iyer,2026-02-01 00:00:00,Webcam,Electronics,1,2499,0.05,Kolkata,Credit Card,Delivered
+ORD0275,CUST0145,Neha Kapoor,2026-07-31 00:00:00,Desk Lamp,Home Office,4,999,0.1,Pune,UPI,Delivered
+ORD0394,CUST0094,Neha Kapoor,2026-01-02 00:00:00,Keyboard,Accessories,4,1299,0.0,Bengaluru,Credit Card,Delivered
+ORD0020,CUST0134,Sneha Iyer,2026-01-30 00:00:00,Webcam,Electronics,2,2499,0.1,Mumbai,Debit Card,Cancelled
+ORD0454,CUST0098,Priya Nair,2026-06-05 00:00:00,Desk Lamp,Home Office,3,999,0.2,Kolkata,Cash on Delivery,Delivered
+ORD0339,CUST0069,Arjun Rao,2026-03-28 00:00:00, Webcam ,Electronics,2,2499,0.05,Chennai,Cash on Delivery,Delivered
+ORD0057,CUST0144,Aisha Khan,2026-08-06 00:00:00,Webcam,Electronics,4,2499,0.2,Kolkata,Cash on Delivery,Delivered
+ORD0334,CUST0106,Ananya Das,2026-08-08 00:00:00,Desk Lamp,Home Office,4,999,0.1,Kolkata,Cash on Delivery,Processing
+ORD0309,CUST0032,Arjun Rao,INVALID_DATE,Webcam,Electronics,4,2499,0.0,Chennai,Debit Card,Shipped
+ORD0239,CUST0001,Vikram Singh,2026-02-04 00:00:00,Wireless Mouse,Accessories,1,799,0.2,Chennai,Debit Card,Delivered
+ORD0406,CUST0113,Sneha Iyer,2026-05-25 00:00:00,USB-C Hub,Accessories,2,1799,0.2,Pune,Cash on Delivery,Returned
+ORD0308,CUST0059,Aisha Khan,2026-08-05 00:00:00,Monitor,Electronics,1,12999,0.05,Pune,Cash on Delivery,Delivered
+ORD0469,CUST0101,Aisha Khan,2026-06-20 00:00:00,Wireless Mouse,Accessories,4,799,0.2,Mumbai,Cash on Delivery,Delivered
+ORD0432,CUST0079,Ananya Das,2026-01-30 00:00:00,USB-C Hub,Accessories,1,1799,0.15,Chennai,Debit Card,Processing
+ORD0490,CUST0102,Rahul Sharma,2026-03-06 00:00:00,Webcam,Electronics,1,2499,0.0,Delhi,Cash on Delivery,Returned
+ORD0026,CUST0068,Vikram Singh,2026-07-22 00:00:00,Wireless Mouse,Accessories,1,799,0.1,Bengaluru,Debit Card,Processing
+ORD0366,CUST0134,Vikram Singh,2026-07-06 00:00:00,Keyboard,Accessories,1,1299,0.1,Mumbai,Cash on Delivery,Delivered
+ORD0043,CUST0054,Aisha Khan,2026-03-08 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Kolkata,Credit Card,Delivered
+ORD0141,CUST0108,Arjun Rao,2026-07-01 00:00:00,Desk Lamp,Home Office,3,999,0.0,Kolkata,Cash on Delivery,Delivered
+ORD0419,CUST0063,Ananya Das,2026-03-08 00:00:00,Desk Lamp,Home Office,3,999,0.1,Chennai,UPI,Returned
+ORD0317,CUST0066,Rohan Gupta,2026-04-22 00:00:00,Headphones,Electronics,3,2999,0.2,Bengaluru,Cash on Delivery,Delivered
+ORD0127,CUST0145,Rahul Sharma,2026-08-27 00:00:00,Monitor,Electronics,3,12999,0.05,Pune,UPI,Cancelled
+ORD0333,CUST0060,Rohan Gupta,2026-01-31 00:00:00,Headphones,Electronics,2,2999,0.15,Bengaluru,Cash on Delivery,Delivered
+ORD0032,CUST0002,Rahul Sharma,2026-02-17 00:00:00,USB-C Hub,Accessories,1,1799,0.15,Chennai,UPI,Cancelled
+ORD0114,CUST0137,Vikram Singh,2026-05-11 00:00:00,Desk Lamp,Home Office,3,999,0.1,Kolkata,Cash on Delivery,Shipped
+ORD0154,CUST0148,Aisha Khan,2026-05-10 00:00:00,Monitor,Electronics,1,12999,0.1,Kolkata,Debit Card,Delivered
+ORD0212,CUST0130,Neha Kapoor,2026-03-13 00:00:00,Webcam,Electronics,1,2499,0.1,Chennai,UPI,Delivered
+ORD0423,CUST0025,Karan Mehta,2026-01-01 00:00:00,Laptop Stand,Accessories,4,1499,0.2,Chennai,Cash on Delivery,Returned
+ORD0058,CUST0023,Aisha Khan,2026-01-10 00:00:00,Headphones,Electronics,1,2999,0.2,Hyderabad,Credit Card,Delivered
+ORD0267,CUST0002,Arjun Rao,2026-01-07 00:00:00,Webcam,Electronics,1,2499,0.2,Mumbai,Debit Card,Delivered
+ORD0025,CUST0002,Priya Nair,2026-08-08 00:00:00,Keyboard,Accessories,1,1299,0.2,Bengaluru,UPI,Delivered
+ORD0018,CUST0052,Sneha Iyer,2026-08-10 00:00:00,Monitor,Electronics,1,12999,0.2,Kolkata,Debit Card,Delivered
+ORD0186,CUST0123,Aisha Khan,2026-06-12 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Mumbai,Credit Card,Returned
+ORD0001,CUST0113,Sneha Iyer,2026-04-22 00:00:00,Headphones,Electronics,1,2999,0.0,Pune,UPI,Cancelled
+ORD0403,CUST0067,Sneha Iyer,2026-06-03 00:00:00,Desk Lamp,Home Office,3,999,0.1,Pune,Credit Card,Cancelled
+ORD0397,CUST0122,Priya Nair,2026-02-01 00:00:00,Monitor,Electronics,1,12999,0.1,Delhi,Cash on Delivery,Delivered
+ORD0095,CUST0038,Priya Nair,2026-04-08 00:00:00,Keyboard,Accessories,3,1299,0.05,Pune,Debit Card,Delivered
+ORD0497,CUST0083,Karan Mehta,2026-07-12 00:00:00,Laptop Stand,Accessories,1,1499,0.2,Delhi,Cash on Delivery,Cancelled
+ORD0355,CUST0063,Vikram Singh,2026-01-21 00:00:00,Desk Lamp,Home Office,1,999,0.2,Mumbai,Cash on Delivery,Returned
+ORD0024,CUST0039,,2026-05-11 00:00:00,USB-C Hub,Accessories,4,1799,0.0,Chennai,UPI,Returned
+ORD0232,CUST0125,,2026-08-19 00:00:00,Headphones,Electronics,4,2999,0.0,Hyderabad,Credit Card,Delivered
+ORD0266,CUST0037,Arjun Rao,2026-08-08 00:00:00,Laptop Stand,Accessories,2,1499,0.1,Mumbai,UPI,Delivered
+ORD0209,CUST0050,Sneha Iyer,2026-07-18 00:00:00,Monitor,Electronics,3,12999,0.1,Chennai,Cash on Delivery,Delivered
+ORD0006,CUST0073,Vikram Singh,2026-01-18 00:00:00,Monitor,Electronics,1,12999,0.15,Bengaluru,Cash on Delivery,Delivered
+ORD0117,CUST0026,Arjun Rao,2026-06-22 00:00:00,Keyboard,Accessories,4,1299,0.15,Chennai,Credit Card,Returned
+ORD0046,CUST0020,Rahul Sharma,2026-01-08 00:00:00,Laptop Stand,Accessories,4,1499,0.15,Delhi,Debit Card,Delivered
+ORD0395,CUST0055,Aisha Khan,2026-04-11 00:00:00,Keyboard,Accessories,1,1299,0.2,Pune,UPI,Delivered
+ORD0017,CUST0015,Aisha Khan,2026-02-11 00:00:00,Keyboard,Accessories,1,1299,0.15,Chennai,Debit Card,Delivered
+ORD0473,CUST0103,Aisha Khan,2026-07-25 00:00:00, Keyboard ,Accessories,1,1299,0.0,Mumbai,UPI,Delivered
+ORD0462,CUST0008,Rahul Sharma,2026-07-28 00:00:00,Headphones,Electronics,1,2999,0.1,Chennai,Credit Card,Cancelled
+ORD0004,CUST0089,Rahul Sharma,2026-08-07 00:00:00,Headphones,Electronics,1,2999,0.1,Kolkata,Credit Card,Delivered
+ORD0228,CUST0117,Priya Nair,2026-08-16 00:00:00,USB-C Hub,Accessories,2,1799,0.05,Kolkata,Credit Card,Processing
+ORD0483,CUST0109,Karan Mehta,2026-04-05 00:00:00,USB-C Hub,Accessories,3,1799,0.2,Pune,UPI,Delivered
+ORD0061,CUST0033,Rahul Sharma,2026-07-08 00:00:00,Keyboard,Accessories,4,1299,,Delhi,UPI,Shipped
+ORD0111,CUST0042,Rohan Gupta,2026-04-11 00:00:00,USB-C Hub,Accessories,3,1799,0.15,Mumbai,Cash on Delivery,Delivered
+ORD0325,CUST0100,Arjun Rao,2026-06-25 00:00:00,Webcam,Electronics,3,2499,0.2,Hyderabad,Credit Card,Delivered
+ORD0298,CUST0029,Rahul Sharma,2026-01-10 00:00:00,USB-C Hub,Accessories,4,1799,0.05,Mumbai,Cash on Delivery,Cancelled
+ORD0030,CUST0104,Rahul Sharma,2026-01-11 00:00:00,Monitor,Electronics,2,12999,0.15,Bengaluru,UPI,Delivered
+ORD0193,CUST0147,Neha Kapoor,2026-04-02 00:00:00,Headphones,Electronics,4,0,0.0,Delhi,Debit Card,Delivered
+ORD0465,CUST0102,Ananya Das,2026-07-29 00:00:00,Monitor,Electronics,3,12999,0.05,Pune,Cash on Delivery,Processing
+ORD0027,CUST0098,Ananya Das,2026-08-02 00:00:00,Webcam,Electronics,4,2499,0.1,Kolkata,Cash on Delivery,Processing
+ORD0008,CUST0008,Arjun Rao,2026-07-25 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Hyderabad,Credit Card,Shipped
+ORD0463,CUST0070,Rohan Gupta,2026-01-16 00:00:00,USB-C Hub,Accessories,4,1799,,Delhi,Cash on Delivery,Returned
+ORD0109,CUST0025,Rahul Sharma,2026-01-13 00:00:00,Headphones,Electronics,4,2999,0.15,Bengaluru,Cash on Delivery,Delivered
+ORD0038,CUST0038,Ananya Das,2026-04-19 00:00:00,Headphones,Electronics,2,2999,0.1,Pune,Cash on Delivery,Shipped
+ORD0158,CUST0022,Sneha Iyer,2026-06-03 00:00:00,Laptop Stand,Accessories,2,1499,0.05,Chennai,UPI,Shipped
+ORD0477,CUST0056,Arjun Rao,2026-05-29 00:00:00,Desk Lamp,Home Office,3,999,0.1,Hyderabad,Credit Card,Processing
+ORD0119,CUST0139,Sneha Iyer,2026-03-18 00:00:00,Webcam,Electronics,2,2499,0.1,Delhi,UPI,Delivered
+ORD0115,CUST0006,Priya Nair,2026-07-31 00:00:00,Desk Lamp,Home Office,3,999,0.15,Delhi,Cash on Delivery,Delivered
+ORD0176,CUST0016,Aisha Khan,2026-04-18 00:00:00,Wireless Mouse,Accessories,1,799,0.05,Kolkata,Debit Card,Cancelled
+ORD0195,CUST0133,Aisha Khan,2026-08-31 00:00:00,USB-C Hub,Accessories,3,1799,0.05,Mumbai,Cash on Delivery,Delivered
+ORD0319,CUST0020,Arjun Rao,2026-08-11 00:00:00,Webcam,Electronics,1,2499,0.1,Chennai,Credit Card,Delivered
+ORD0145,CUST0030,Neha Kapoor,2026-01-19 00:00:00,Webcam,Electronics,1,2499,0.05,Bengaluru,Credit Card,Shipped
+ORD0377,CUST0052,Ananya Das,2026-08-20 00:00:00,Keyboard,Accessories,2,1299,0.2,Delhi,Credit Card,Delivered
+ORD0430,CUST0025,Ananya Das,2026-01-31 00:00:00,Keyboard,Accessories,1,1299,0.0,Kolkata,Debit Card,Cancelled
+ORD0205,CUST0081,Neha Kapoor,2026-04-02 00:00:00,Keyboard,Accessories,3,1299,0.2,Chennai,Debit Card,Delivered
+ORD0322,CUST0071,Sneha Iyer,2026-08-09 00:00:00,Laptop Stand,Accessories,3,1499,0.1,Chennai,Cash on Delivery,Delivered
+ORD0363,CUST0124,Rahul Sharma,2026-07-19 00:00:00,Laptop Stand,Accessories,4,1499,0.1,Hyderabad,Credit Card,Delivered
+ORD0455,CUST0090,Neha Kapoor,2026-05-17 00:00:00,Wireless Mouse,Accessories,4,799,0.2,Hyderabad,Credit Card,Shipped
+ORD0142,CUST0029,Ananya Das,2026-06-03 00:00:00,Desk Lamp,Home Office,1,999,0.15,Mumbai,UPI,Delivered
+ORD0495,CUST0146,Rahul Sharma,2026-03-24 00:00:00,Desk Lamp,Home Office,4,999,0.1,Hyderabad,Debit Card,Delivered
+ORD0001,CUST0140,Rohan Gupta,2026-05-27 00:00:00,Laptop Stand,Accessories,4,1499,0.15,Bengaluru,Debit Card,Returned
+ORD0262,CUST0150,Ananya Das,2026-01-21 00:00:00,Webcam,Electronics,3,2499,0.15,Bengaluru,Credit Card,Delivered
+ORD0169,CUST0083,Neha Kapoor,2026-08-11 00:00:00,Headphones,Electronics,4,2999,0.2,Bengaluru,Debit Card,Shipped
+ORD0033,CUST0099,Arjun Rao,2026-02-17 00:00:00,Monitor,Electronics,1,12999,0.1,Hyderabad,,Delivered
+ORD0384,CUST0062,Aisha Khan,2026-04-17 00:00:00,Monitor,Electronics,1,12999,0.0,Bengaluru,Cash on Delivery,Delivered
+ORD0246,CUST0001,Arjun Rao,2026-01-31 00:00:00,USB-C Hub,Accessories,1,1799,0.2,chennai,UPI,Delivered
+ORD0194,CUST0045,Rohan Gupta,2026-06-30 00:00:00,Webcam,Electronics,3,2499,0.05,Hyderabad,Debit Card,Shipped
+ORD0256,CUST0015,Sneha Iyer,2026-01-21 00:00:00,Keyboard,Accessories,3,1299,0.2,Pune,Debit Card,Delivered
+ORD0110,CUST0146,Sneha Iyer,2026-04-21 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Kolkata,,Delivered
+ORD0488,CUST0031,Aisha Khan,2026-07-21 00:00:00,Desk Lamp,Home Office,3,999,0.1,Mumbai,Debit Card,Delivered
+ORD0146,CUST0113,Priya Nair,2026-08-10 00:00:00,Wireless Mouse,Accessories,2,0,0.1,Kolkata,Cash on Delivery,Delivered
+ORD0093,CUST0050,Rahul Sharma,2026-02-23 00:00:00,Keyboard,Accessories,3,1299,0.15,Chennai,Credit Card,Cancelled
+ORD0153,CUST0125,Arjun Rao,2026-02-05 00:00:00,Keyboard,Accessories,4,1299,0.2,Hyderabad,Credit Card,Cancelled
+ORD0229,CUST0115,Aisha Khan,2026-05-05 00:00:00,Monitor,Electronics,2,12999,0.15,Delhi,UPI,Delivered
+ORD0417,CUST0082,Arjun Rao,2026-06-24 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Kolkata,UPI,Delivered
+ORD0084,CUST0145,Rohan Gupta,2026-06-10 00:00:00,Laptop Stand,Accessories,4,1499,0.2,Hyderabad,UPI,Shipped
+ORD0273,CUST0030,Sneha Iyer,2026-01-08 00:00:00,Wireless Mouse,Accessories,3,799,0.15,Mumbai,Cash on Delivery,Returned
+ORD0166,CUST0129,Rohan Gupta,2026-03-02 00:00:00,Desk Lamp,Home Office,1,999,0.1,Mumbai,UPI,Delivered
+ORD0164,CUST0054,Priya Nair,2026-02-24 00:00:00,Desk Lamp,Home Office,3,999,0.2,Bengaluru,Credit Card,Delivered
+ORD0200,CUST0017,Ananya Das,2026-05-25 00:00:00,USB-C Hub,Accessories,3,1799,-0.1,Pune,UPI,Delivered
+ORD0238,CUST0148,Priya Nair,2026-03-19 00:00:00,USB-C Hub,Accessories,3,1799,0.05,Bengaluru,Debit Card,Delivered
+ORD0075,CUST0045,Sneha Iyer,2026-02-05 00:00:00,Monitor,Electronics,3,12999,0.15,Kolkata,Debit Card,Processing
+ORD0315,CUST0106,Aisha Khan,2026-05-24 00:00:00,Monitor,Electronics,4,12999,0.0,Hyderabad,UPI,Cancelled
+ORD0223,CUST0055,Sneha Iyer,2026-06-22 00:00:00,Wireless Mouse,Accessories,3,799,0.2,Kolkata,UPI,Shipped
+ORD0480,CUST0103,Rohan Gupta,2026-08-07 00:00:00,Keyboard,Accessories,4,1299,0.15,Mumbai,Debit Card,Cancelled
+ORD0120,CUST0005,Vikram Singh,2026-05-18 00:00:00,Desk Lamp,Home Office,2,999,0.15,Mumbai,UPI,Shipped
+ORD0287,CUST0130,Vikram Singh,2026-07-30 00:00:00,Webcam,Electronics,3,2499,0.1,Chennai,Debit Card,Delivered
+ORD0305,CUST0126,Sneha Iyer,2026-03-19 00:00:00,Laptop Stand,Accessories,4,1499,0.0,Bengaluru,UPI,Delivered
+ORD0425,CUST0128,Sneha Iyer,2026-06-07 00:00:00,Laptop Stand,Accessories,2,1499,0.1,Delhi,Cash on Delivery,Delivered
+ORD0361,CUST0150,Rahul Sharma,2026-10-03 00:00:00,Desk Lamp,Home Office,4,999,0.15,Delhi,Credit Card,Returned
+ORD0408,CUST0109,Arjun Rao,2026-08-29 00:00:00,Wireless Mouse,Accessories,2,799,0.2,Pune,Debit Card,Delivered
+ORD0235,CUST0093,Aisha Khan,2026-03-17 00:00:00,Desk Lamp,Home Office,-2,999,0.0,Bengaluru,UPI,Delivered
+ORD0381,CUST0136,Arjun Rao,2026-05-04 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Bengaluru,UPI,Delivered
+ORD0479,CUST0084,Priya Nair,2026-04-26 00:00:00,Monitor,Electronics,2,12999,0.2,Chennai,Cash on Delivery,Delivered
+ORD0391,CUST0076,Aisha Khan,2026-08-31 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Kolkata,Credit Card,Shipped
+ORD0279,CUST0075,Arjun Rao,2026-06-29 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Hyderabad,Credit Card,Delivered
+ORD0037,CUST0145,Rahul Sharma,2026-06-25 00:00:00,Monitor,Electronics,3,12999,0.15,Delhi,Debit Card,Shipped
+ORD0197,CUST0046,Rahul Sharma,2026-08-21 00:00:00,Desk Lamp,Home Office,1,999,0.0,Kolkata,Credit Card,Shipped
+ORD0140,CUST0038,Priya Nair,2026-05-15 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Delhi,Credit Card,Cancelled
+ORD0372,CUST0078,Rohan Gupta,2026-07-15 00:00:00,Keyboard,Accessories,0,1299,0.1,Hyderabad,Cash on Delivery,Cancelled
+ORD0254,CUST0015,Vikram Singh,2026-03-11 00:00:00,Monitor,Electronics,4,12999,0.05,Hyderabad,Debit Card,Delivered
+ORD0290,CUST0101,Vikram Singh,2026-05-04 00:00:00,Desk Lamp,Home Office,1,999,0.15,Chennai,Cash on Delivery,Shipped
+ORD0291,CUST0063,Karan Mehta,2026-04-26 00:00:00,Headphones,Electronics,3,2999,0.2,Delhi,Debit Card,Delivered
+ORD0060,CUST0002,Rahul Sharma,2026-08-08 00:00:00,Desk Lamp,Home Office,4,999,0.1,Hyderabad,Cash on Delivery,Shipped
+ORD0112,CUST0109,Ananya Das,2026-08-17 00:00:00,Desk Lamp,Home Office,3,999,0.0,Bengaluru,UPI,Delivered
+ORD0090,CUST0023,Karan Mehta,2026-02-22 00:00:00,Keyboard,Accessories,1,1299,0.2,Mumbai,Credit Card,Delivered
+ORD0269,CUST0036,Neha Kapoor,2026-08-17 00:00:00,Webcam,Electronics,2,2499,0.0,Hyderabad,Debit Card,Delivered
+ORD0007,CUST0090,Karan Mehta,2026-05-10 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Hyderabad,Debit Card,Shipped
+ORD0368,CUST0102,Vikram Singh,2026-05-30 00:00:00,Desk Lamp,Home Office,2,999,0.0,Delhi,Credit Card,Cancelled
+ORD0352,CUST0007,Arjun Rao,2026-04-19 00:00:00,USB-C Hub,Accessories,2,1799,0.1,Delhi,Credit Card,Delivered
+ORD0393,CUST0003,Sneha Iyer,2026-07-17 00:00:00,Monitor,Electronics,4,12999,0.1,,Credit Card,Delivered
+ORD0159,CUST0070,,2026-05-08 00:00:00,Webcam,Electronics,3,2499,0.2,Mumbai,Cash on Delivery,Delivered
+ORD0151,CUST0078,Neha Kapoor,2026-02-15 00:00:00,Desk Lamp,Home Office,4,999,0.1,Hyderabad,Cash on Delivery,Shipped
+ORD0178,CUST0062,Karan Mehta,2026-08-24 00:00:00,Webcam,Electronics,2,2499,0.0,Hyderabad,Debit Card,Delivered
+ORD0422,CUST0114,Neha Kapoor,2026-01-26 00:00:00,Keyboard,Accessories,3,1299,0.0,Kolkata,Credit Card,Delivered
+ORD0185,CUST0005,Karan Mehta,2026-02-23 00:00:00,Desk Lamp,Home Office,2,999,0.0,Bengaluru,Debit Card,Delivered
+ORD0288,CUST0126,Priya Nair,2026-06-08 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Kolkata,Debit Card,Delivered
+ORD0011,CUST0082,Karan Mehta,2026-01-24 00:00:00,Desk Lamp,Home Office,1,999,0.05,Bengaluru,Cash on Delivery,Shipped
+ORD0389,CUST0087,Vikram Singh,2026-06-26 00:00:00,Keyboard,Accessories,2,1299,0.15,Mumbai,Credit Card,Delivered
+ORD0104,CUST0056,Rahul Sharma,2026-01-26 00:00:00,Laptop Stand,Accessories,2,1499,0.15,bengaluru,Cash on Delivery,Shipped
+ORD0082,CUST0016,Neha Kapoor,2026-04-12 00:00:00,Wireless Mouse,Accessories,4,799,0.15,Hyderabad,UPI,Delivered
+ORD0039,CUST0030,Rahul Sharma,2026-01-28 00:00:00,Wireless Mouse,Accessories,1,799,0.0,Chennai,Cash on Delivery,Shipped
+ORD0321,CUST0103,Karan Mehta,2026-07-21 00:00:00,Headphones,Electronics,4,2999,0.15,Hyderabad,UPI,Delivered
+ORD0199,CUST0079,Karan Mehta,2026-08-09 00:00:00,USB-C Hub,Accessories,4,1799,0.15,Hyderabad,Cash on Delivery,Processing
+ORD0263,CUST0122,Rohan Gupta,2026-05-05 00:00:00,Wireless Mouse,Accessories,4,799,0.05,Bengaluru,Credit Card,Delivered
+ORD0147,CUST0103,Arjun Rao,2026-02-01 00:00:00,Webcam,Electronics,3,2499,0.05,Mumbai,Debit Card,Shipped
+ORD0401,CUST0126,Rahul Sharma,2026-04-23 00:00:00,Keyboard,Accessories,3,1299,0.2,Mumbai,Cash on Delivery,Delivered
+ORD0148,CUST0087,Vikram Singh,2026-08-08 00:00:00,USB-C Hub,Accessories,1,1799,0.05,Kolkata,UPI,Delivered
+ORD0313,CUST0088,Ananya Das,2026-06-20 00:00:00,Wireless Mouse,Accessories,3,0,0.2,Chennai,UPI,Delivered
+ORD0292,CUST0086,Karan Mehta,2026-07-02 00:00:00,Headphones,Electronics,2,2999,0.05,Pune,Debit Card,Delivered
+ORD0124,CUST0064,Neha Kapoor,2026-01-11 00:00:00,Headphones,Electronics,4,2999,0.0,CHENNAI,Credit Card,Processing
+ORD0376,CUST0087,Neha Kapoor,2026-03-17 00:00:00,Desk Lamp,Home Office,1,999,0.15,Pune,Debit Card,Delivered
+ORD0001,CUST0081,Karan Mehta,2026-01-29 00:00:00,Wireless Mouse,Accessories,3,799,0.15,Mumbai,Cash on Delivery,Processing
+ORD0144,CUST0141,Vikram Singh,2026-06-28 00:00:00,Monitor,Electronics,1,12999,0.1,Delhi,Credit Card,Delivered
+ORD0240,CUST0012,Aisha Khan,2026-01-20 00:00:00,Laptop Stand,Accessories,3,1499,0.2,Mumbai,Cash on Delivery,Shipped
+ORD0278,CUST0142,Sneha Iyer,2026-08-13 00:00:00,USB-C Hub,Accessories,-1,1799,0.05,Chennai,Credit Card,Delivered
+ORD0098,CUST0084,Neha Kapoor,2026-03-10 00:00:00,Laptop Stand,Accessories,4,1499,0.05,Pune,UPI,Delivered
+ORD0357,CUST0148,Priya Nair,2026-06-03 00:00:00,USB-C Hub,Accessories,1,1799,0.2,Delhi,UPI,Delivered
+ORD0123,CUST0137,Priya Nair,2026-03-17 00:00:00,Desk Lamp,Home Office,3,999,0.1,Delhi,UPI,Shipped
+ORD0184,CUST0074,Priya Nair,2026-02-26 00:00:00,Webcam,Electronics,2,2499,0.05,Bengaluru,UPI,Returned
+ORD0203,CUST0004,Rahul Sharma,2026-04-09 00:00:00,Wireless Mouse,Accessories,1,799,0.2,Bengaluru,Debit Card,Delivered
+ORD0247,CUST0063,Rohan Gupta,2026-06-10 00:00:00,USB-C Hub,Accessories,2,1799,0.0,BENGALURU,Cash on Delivery,Processing
+ORD0312,CUST0022,Priya Nair,2026-01-02 00:00:00,Keyboard,Accessories,1,1299,0.2,Chennai,,Delivered
+ORD0415,CUST0115,Arjun Rao,2026-06-03 00:00:00,Headphones,Electronics,1,2999,0.15,,Cash on Delivery,Cancelled
+ORD0358,CUST0134,Arjun Rao,2026-03-01 00:00:00,Laptop Stand,Accessories,4,1499,0.15,Bengaluru,Debit Card,Cancelled
+ORD0306,CUST0114,Aisha Khan,2026-05-29 00:00:00,Headphones,Electronics,3,2999,0.15,Hyderabad,Debit Card,Returned
+ORD0404,CUST0051,Priya Nair,2026-01-06 00:00:00,Keyboard,Accessories,2,1299,0.1,Chennai,Debit Card,Delivered
+ORD0383,CUST0049,Rahul Sharma,2026-07-09 00:00:00,Webcam,Electronics,2,2499,0.1,Hyderabad,Cash on Delivery,Delivered
+ORD0126,CUST0146,Neha Kapoor,2026-03-13 00:00:00,Wireless Mouse,Accessories,1,799,0.1,Chennai,Credit Card,Delivered
+ORD0489,CUST0010,Ananya Das,2026-01-17 00:00:00,Laptop Stand,Accessories,3,1499,0.15,Hyderabad,Debit Card,Shipped
+ORD0224,CUST0082,Ananya Das,2026-05-26 00:00:00,Keyboard,Accessories,4,1299,0.1,Pune,,Returned
+ORD0427,CUST0102,Priya Nair,2026-07-13 00:00:00,USB-C Hub,Accessories,4,1799,0.05,Chennai,Cash on Delivery,Delivered
+ORD0220,CUST0062,Sneha Iyer,2026-03-03 00:00:00,Wireless Mouse,Accessories,4,799,0.1,Kolkata,Debit Card,Shipped
+ORD0130,CUST0033,Sneha Iyer,2026-03-27 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Mumbai,UPI,Cancelled
+ORD0429,CUST0145,Rohan Gupta,2026-06-07 00:00:00, Monitor ,Electronics,1,12999,0.2,Chennai,UPI,Delivered
+ORD0485,CUST0061,Sneha Iyer,2026-01-03 00:00:00,Headphones,Electronics,1,2999,0.1,Pune,Debit Card,Delivered
+ORD0335,CUST0144,Ananya Das,2026-08-11 00:00:00,Wireless Mouse,Accessories,4,799,0.05,Bengaluru,UPI,Delivered
+ORD0385,CUST0088,Karan Mehta,2026-02-20 00:00:00,Laptop Stand,Accessories,1,1499,-0.1,Kolkata,Debit Card,Cancelled
+ORD0410,CUST0111,Priya Nair,2026-05-19 00:00:00,Keyboard,Accessories,1,1299,0.15,Delhi,UPI,Returned
+ORD0362,CUST0125,Priya Nair,2026-03-07 00:00:00,Keyboard,Accessories,1,1299,0.1,Hyderabad,Debit Card,Delivered
+ORD0300,CUST0069,Rahul Sharma,2026-03-28 00:00:00,Desk Lamp,Home Office,1,999,0.2,Chennai,Cash on Delivery,Delivered
+ORD0295,CUST0149,Sneha Iyer,2026-07-02 00:00:00,Keyboard,Accessories,3,1299,0.2,Mumbai,Credit Card,Delivered
+ORD0374,CUST0011,Priya Nair,2026-08-01 00:00:00,USB-C Hub,Accessories,3,1799,0.2,Chennai,Cash on Delivery,Processing
+ORD0347,CUST0125,Rohan Gupta,2026-06-17 00:00:00,Headphones,Electronics,3,2999,0.05,Hyderabad,Credit Card,Delivered
+ORD0113,CUST0112,Sneha Iyer,2026-04-04 00:00:00,Headphones,Electronics,2,2999,0.1,Pune,Credit Card,Processing
+ORD0180,CUST0068,,2026-07-09 00:00:00,Headphones,Electronics,4,2999,0.2,,Cash on Delivery,Delivered
+ORD0478,CUST0047,Vikram Singh,2026-03-12 00:00:00,Webcam,Electronics,4,2499,0.05,Chennai,UPI,Processing
+ORD0353,CUST0129,Vikram Singh,2026-01-08 00:00:00,Headphones,Electronics,1,2999,0.2,Hyderabad,Cash on Delivery,Delivered
+ORD0337,CUST0007,Ananya Das,2026-05-07 00:00:00,Wireless Mouse,Accessories,1,799,0.05,Delhi,Cash on Delivery,Delivered
+ORD0492,CUST0057,Rahul Sharma,2026-06-11 00:00:00,Webcam,Electronics,2,2499,0.1,Bengaluru,UPI,Delivered
+ORD0405,CUST0122,Karan Mehta,2026-06-19 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Chennai,Debit Card,Cancelled
+ORD0234,CUST0045,Vikram Singh,2026-02-16 00:00:00,Laptop Stand,Accessories,4,1499,0.1,Mumbai,Debit Card,Delivered
+ORD0457,CUST0025,Aisha Khan,2026-02-14 00:00:00,Laptop Stand,Accessories,2,1499,0.1,Delhi,UPI,Processing
+ORD0318,CUST0058,Ananya Das,2026-01-12 00:00:00,Wireless Mouse,Accessories,2,799,0.0,Pune,Credit Card,Shipped
+ORD0165,CUST0081,Priya Nair,2026-07-20 00:00:00,USB-C Hub,Accessories,3,1799,0.05,Mumbai,UPI,Delivered
+ORD0137,CUST0001,Karan Mehta,2026-05-29 00:00:00,Keyboard,Accessories,3,1299,0.05,Pune,Cash on Delivery,Delivered
+ORD0198,CUST0070,Arjun Rao,2026-06-07 00:00:00,Desk Lamp,Home Office,1,999,0.05,Bengaluru,Cash on Delivery,Processing
+ORD0259,CUST0094,Vikram Singh,2026-04-05 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Mumbai,Debit Card,Delivered
+ORD0233,CUST0089,Rohan Gupta,2026-01-28 00:00:00,Laptop Stand,Accessories,3,1499,0.05,Delhi,UPI,Delivered
+ORD0116,CUST0094,Neha Kapoor,2026-08-18 00:00:00,Headphones,Electronics,1,2999,0.1,Pune,UPI,Shipped
+ORD0121,CUST0063,Karan Mehta,2026-03-14 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Bengaluru,Debit Card,Delivered
+ORD0356,CUST0059,Vikram Singh,2026-05-08 00:00:00,Wireless Mouse,Accessories,3,799,0.1,Chennai,Unknown,Delivered
+ORD0225,CUST0131,Aisha Khan,2026-08-31 00:00:00,Laptop Stand,Accessories,3,1499,0.1,Chennai,UPI,Delivered
+ORD0411,CUST0104,Ananya Das,2026-06-01 00:00:00,USB-C Hub,Accessories,2,1799,0.05,Delhi,UPI,Shipped
+ORD0439,CUST0101,Rahul Sharma,2026-01-24 00:00:00,Keyboard,Accessories,1,1299,0.15,Delhi,UPI,Shipped
+ORD0128,CUST0134,Arjun Rao,2026-05-15 00:00:00,Keyboard,Accessories,3,1299,0.1,Mumbai,Cash on Delivery,Delivered
+ORD0286,CUST0012,Sneha Iyer,2026-05-26 00:00:00,USB-C Hub,Accessories,1,1799,0.2,Hyderabad,Debit Card,Shipped
+ORD0433,CUST0119,Priya Nair,2026-03-23 00:00:00,Wireless Mouse,Accessories,4,799,0.05,Kolkata,Debit Card,Delivered
+ORD0108,CUST0028,Aisha Khan,2026-02-08 00:00:00,Monitor,Electronics,1,12999,0.0,Bengaluru,Debit Card,Delivered
+ORD0378,CUST0132,Vikram Singh,2026-07-18 00:00:00,Webcam,Electronics,3,2499,0.15,Hyderabad,Cash on Delivery,Delivered
+ORD0332,CUST0039,Priya Nair,2026-06-12 00:00:00,Headphones,Electronics,3,2999,0.0,Bengaluru,Cash on Delivery,Processing
+ORD0134,CUST0046,Aisha Khan,2026-05-21 00:00:00,Monitor,Electronics,2,12999,0.05,Bengaluru,UPI,Delivered
+ORD0371,CUST0064,Rahul Sharma,2026-04-30 00:00:00,Headphones,Electronics,1,2999,0.15,Bengaluru,Credit Card,Delivered
+ORD0045,CUST0026,Arjun Rao,2026-02-19 00:00:00,Monitor,Electronics,1,12999,0.0,Chennai,Cash on Delivery,Delivered
+ORD0471,CUST0010,Sneha Iyer,2026-01-09 00:00:00,Webcam,Electronics,1,2499,0.1,Mumbai,Debit Card,Delivered
+ORD0066,CUST0037,Rahul Sharma,2026-07-02 00:00:00,Headphones,Electronics,4,2999,0.2,,UPI,Delivered
+ORD0284,CUST0095,Rahul Sharma,2026-04-20 00:00:00,Laptop Stand,Accessories,4,1499,0.2,Hyderabad,Debit Card,Returned
+ORD0086,CUST0010,Neha Kapoor,2026-01-30 00:00:00,Laptop Stand,Accessories,2,1499,0.05,Delhi,UPI,Delivered
+ORD0243,CUST0129,Vikram Singh,2026-01-08 00:00:00,Wireless Mouse,Accessories,1,799,0.2,Pune,UPI,Returned
+ORD0187,CUST0013,Neha Kapoor,2026-05-05 00:00:00,Keyboard,Accessories,4,1299,0.0,Bengaluru,Cash on Delivery,Delivered
+ORD0392,CUST0051,Aisha Khan,2026-05-22 00:00:00,Laptop Stand,Accessories,2,1499,0.05,Delhi,Credit Card,Delivered
+ORD0160,CUST0122,Vikram Singh,2026-04-27 00:00:00,Wireless Mouse,Accessories,1,799,0.05,Pune,UPI,Delivered
+ORD0013,CUST0081,Neha Kapoor,2026-06-12 00:00:00,Monitor,Electronics,3,12999,0.1,Bengaluru,Debit Card,Delivered
+ORD0036,CUST0068,Rahul Sharma,2026-05-22 00:00:00,Keyboard,Accessories,4,1299,0.2,Hyderabad,Cash on Delivery,Shipped
+ORD0029,CUST0147,Sneha Iyer,2026-04-06 00:00:00,Keyboard,Accessories,3,1299,0.15,Bengaluru,UPI,Delivered
+ORD0171,CUST0047,Aisha Khan,2026-01-16 00:00:00,Webcam,Electronics,2,2499,0.0,Kolkata,Credit Card,Delivered
+ORD0143,CUST0105,Rahul Sharma,2026-05-28 00:00:00,Laptop Stand,Accessories,4,1499,0.15,kolkata,UPI,Delivered
+ORD0407,CUST0141,Priya Nair,2026-04-19 00:00:00,Laptop Stand,Accessories,1,1499,0.2,Delhi,Debit Card,Delivered
+ORD0218,CUST0119,Rahul Sharma,2026-04-14 00:00:00,Wireless Mouse,Accessories,2,799,0.1,Chennai,Debit Card,Cancelled
+ORD0222,CUST0014,Priya Nair,2026-01-12 00:00:00,USB-C Hub,Accessories,2,1799,-0.1,Chennai,UPI,Cancelled
+ORD0096,CUST0052,Rohan Gupta,2026-06-15 00:00:00,Monitor,Electronics,2,12999,0.0,Kolkata,Cash on Delivery,Delivered
+ORD0052,CUST0090,Karan Mehta,2026-08-06 00:00:00,USB-C Hub,Accessories,-1,1799,0.2,Pune,Debit Card,Delivered
+ORD0241,CUST0050,Rohan Gupta,2026-02-08 00:00:00,Headphones,Electronics,2,2999,0.1,Mumbai,Debit Card,Shipped
+ORD0399,CUST0034,Neha Kapoor,2026-06-05 00:00:00,USB-C Hub,Accessories,1,1799,0.2,Kolkata,Cash on Delivery,Delivered
+ORD0387,CUST0019,Neha Kapoor,2026-07-19 00:00:00,Desk Lamp,Home Office,4,999,0.2,Chennai,UPI,Shipped
+ORD0179,CUST0103,Sneha Iyer,2026-05-13 00:00:00,Headphones,Electronics,1,2999,0.0,Pune,UPI,Delivered
+ORD0042,CUST0116,Karan Mehta,2026-06-09 00:00:00,Keyboard,Accessories,4,1299,0.0,Delhi,Cash on Delivery,Delivered
+ORD0445,CUST0149,Neha Kapoor,2026-02-23 00:00:00,USB-C Hub,Accessories,4,1799,0.0,,UPI,Delivered
+ORD0396,CUST0038,Karan Mehta,2026-07-01 00:00:00,Laptop Stand,Accessories,3,1499,0.1,Mumbai,Cash on Delivery,Shipped
+ORD0207,CUST0015,Priya Nair,2026-07-08 00:00:00,USB-C Hub,Accessories,2,1799,0.1,Bengaluru,UPI,Shipped
+ORD0283,CUST0020,Priya Nair,INVALID_DATE,Keyboard,Accessories,2,1299,0.0,Mumbai,UPI,Delivered
+ORD0255,CUST0107,,2026-03-21 00:00:00,Webcam,Electronics,3,2499,0.2,Hyderabad,Debit Card,Delivered
+ORD0421,CUST0021,Priya Nair,2026-06-18 00:00:00,Desk Lamp,Home Office,2,999,0.1,Pune,UPI,Processing
+ORD0005,CUST0015,Arjun Rao,2026-04-18 00:00:00,USB-C Hub,Accessories,4,1799,0.15,Bengaluru,Debit Card,Cancelled
+ORD0257,CUST0117,Sneha Iyer,2026-08-26 00:00:00,Webcam,Electronics,4,2499,0.1,Chennai,Debit Card,Delivered
+ORD0458,CUST0095,Rahul Sharma,2026-02-18 00:00:00,Desk Lamp,Home Office,4,999,0.15,Pune,Cash on Delivery,Shipped
+ORD0101,CUST0061,Aisha Khan,2026-02-20 00:00:00,Keyboard,Accessories,1,1299,0.1,Chennai,UPI,Delivered
+ORD0227,CUST0004,Sneha Iyer,2026-07-07 00:00:00,USB-C Hub,Accessories,1,1799,0.05,Bengaluru,Debit Card,Delivered
+ORD0222,CUST0014,Priya Nair,2026-01-12 00:00:00,USB-C Hub,Accessories,2,1799,0.15,Chennai,UPI,Cancelled
+ORD0214,CUST0136,Ananya Das,2026-06-28 00:00:00,Headphones,Electronics,1,2999,0.0,Bengaluru,Cash on Delivery,Returned
+ORD0437,CUST0112,Neha Kapoor,2026-07-23 00:00:00,Webcam,Electronics,3,2499,0.1,Chennai,UPI,Shipped
+ORD0172,CUST0014,,2026-01-07 00:00:00,Wireless Mouse,Accessories,3,799,,Delhi,Cash on Delivery,Delivered
+ORD0099,CUST0043,Arjun Rao,2026-04-21 00:00:00,Headphones,Electronics,3,2999,0.0,Kolkata,Debit Card,Delivered
+ORD0293,CUST0149,Aisha Khan,2026-08-03 00:00:00,Headphones,Electronics,3,2999,0.05,Kolkata,UPI,Delivered
+ORD0216,CUST0097,Priya Nair,2026-08-13 00:00:00,Desk Lamp,Home Office,2,999,0.0,Bengaluru,UPI,Delivered
+ORD0062,CUST0074,Priya Nair,2026-08-31 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Delhi,Debit Card,Delivered
+ORD0048,CUST0058,Aisha Khan,2026-03-27 00:00:00,Webcam,Electronics,2,2499,0.0,Hyderabad,Unknown,Processing
+ORD0033,CUST0099,Arjun Rao,2026-02-17 00:00:00,Monitor,Electronics,1,12999,0.1,Hyderabad,,Delivered
+ORD0268,CUST0024,Arjun Rao,2026-03-09 00:00:00,Webcam,Electronics,3,2499,0.05,Pune,Credit Card,Cancelled
+ORD0328,CUST0047,Vikram Singh,2026-05-17 00:00:00,Monitor,Electronics,2,12999,0.05,Chennai,UPI,Delivered
+ORD0201,CUST0050,Sneha Iyer,2026-08-15 00:00:00,Desk Lamp,Home Office,3,999,0.15,Chennai,Cash on Delivery,Delivered
+ORD0456,CUST0022,Rohan Gupta,2026-01-17 00:00:00,Desk Lamp,Home Office,4,999,0.1,Mumbai,Cash on Delivery,Shipped
+ORD0028,CUST0070,Arjun Rao,2026-05-28 00:00:00,Laptop Stand,Accessories,4,1499,0.15,Delhi,Cash on Delivery,Delivered
+ORD0398,CUST0023,Neha Kapoor,2026-03-16 00:00:00,Laptop Stand,Accessories,3,1499,0.05,Delhi,UPI,Delivered
+ORD0231,CUST0002,Vikram Singh,2026-02-06 00:00:00,Headphones,Electronics,2,2999,0.2,Pune,UPI,Delivered
+ORD0261,CUST0007,Ananya Das,2026-05-09 00:00:00,USB-C Hub,Accessories,2,1799,0.15,Chennai,Credit Card,Delivered
+ORD0379,CUST0086,Priya Nair,2026-08-04 00:00:00,Webcam,Electronics,3,2499,0.05,Delhi,Debit Card,Returned
+ORD0289,CUST0115,Vikram Singh,2026-03-21 00:00:00,Webcam,Electronics,1,2499,0.15,Bengaluru,Cash on Delivery,Shipped
+ORD0163,CUST0029,Karan Mehta,2026-01-11 00:00:00,Keyboard,Accessories,2,1299,0.1,Hyderabad,UPI,Shipped
+ORD0434,CUST0093,Aisha Khan,2026-01-18 00:00:00,Laptop Stand,Accessories,3,1499,0.0,Kolkata,Cash on Delivery,Processing
+ORD0139,CUST0057,Karan Mehta,2026-06-03 00:00:00,Webcam,Electronics,1,2499,0.0,Delhi,Debit Card,Delivered
+ORD0001,CUST0090,Priya Nair,2026-04-25 00:00:00,Desk Lamp,Home Office,1,999,0.0,Kolkata,Cash on Delivery,Shipped
+ORD0136,CUST0137,Ananya Das,2026-02-20 00:00:00,Monitor,Electronics,2,12999,0.2,Pune,Cash on Delivery,Processing
+ORD0129,CUST0033,Sneha Iyer,2026-08-10 00:00:00,Monitor,Electronics,1,12999,0.1,Hyderabad,UPI,Delivered
+ORD0487,CUST0126,Ananya Das,INVALID_DATE,Desk Lamp,Home Office,3,999,0.2,Pune,UPI,Delivered
+ORD0009,CUST0134,Ananya Das,2026-04-16 00:00:00,Wireless Mouse,Accessories,2,799,0.15,Pune,UPI,Returned
+ORD0327,CUST0118,Rahul Sharma,2026-05-25 00:00:00,Laptop Stand,Accessories,4,1499,0.15,Hyderabad,Cash on Delivery,Delivered
+ORD0474,CUST0091,Priya Nair,2026-03-09 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Mumbai,UPI,Delivered
+ORD0065,CUST0099,Sneha Iyer,2026-07-29 00:00:00,Wireless Mouse,Accessories,1,799,0.0,Kolkata,Cash on Delivery,Delivered
+ORD0301,CUST0109,Arjun Rao,2026-06-01 00:00:00,Keyboard,Accessories,1,1299,0.1,Bengaluru,UPI,Delivered
+ORD0015,CUST0037,Arjun Rao,2026-06-21 00:00:00,Monitor,Electronics,2,12999,0.1,Delhi,Unknown,Delivered
+ORD0157,CUST0115,Rahul Sharma,2026-01-14 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Mumbai,UPI,Delivered
+ORD0041,CUST0099,Rohan Gupta,2026-02-06 00:00:00,Webcam,Electronics,2,2499,0.2,Bengaluru,Credit Card,Returned
+ORD0380,CUST0006,Ananya Das,2026-06-02 00:00:00,Desk Lamp,Home Office,3,999,0.05,Bengaluru,UPI,Delivered
+ORD0470,CUST0091,Ananya Das,2026-04-11 00:00:00,Monitor,Electronics,4,12999,0.1,Bengaluru,UPI,Delivered
+ORD0412,CUST0005,Rahul Sharma,2026-04-11 00:00:00,Desk Lamp,Home Office,4,999,0.15,Pune,Debit Card,Delivered
+ORD0217,CUST0150,Vikram Singh,2026-07-13 00:00:00,Webcam,Electronics,4,2499,0.05,Pune,Credit Card,Processing
+ORD0280,CUST0143,Ananya Das,2026-03-01 00:00:00,Keyboard,Accessories,2,1299,0.2,Hyderabad,Credit Card,Delivered
+ORD0482,CUST0004,Arjun Rao,2026-02-03 00:00:00,Desk Lamp,Home Office,2,999,0.0,bengaluru,Debit Card,Delivered
+ORD0440,CUST0021,Sneha Iyer,2026-07-30 00:00:00,Laptop Stand,Accessories,2,1499,0.1,Hyderabad,UPI,Delivered
+ORD0338,CUST0149,Aisha Khan,2026-06-03 00:00:00,Desk Lamp,Home Office,3,999,0.15,Pune,UPI,Delivered
+ORD0237,CUST0049,Rahul Sharma,2026-04-30 00:00:00,Monitor,Electronics,1,12999,0.15,Hyderabad,Debit Card,Cancelled
+ORD0208,CUST0027,Neha Kapoor,2026-03-01 00:00:00,Wireless Mouse,Accessories,3,799,0.0,Bengaluru,UPI,Processing
+ORD0213,CUST0064,Priya Nair,2026-04-20 00:00:00,Wireless Mouse,Accessories,2,799,0.1,Chennai,UPI,Cancelled
+ORD0296,CUST0082,Neha Kapoor,2026-08-15 00:00:00,USB-C Hub,Accessories,4,1799,0.0,Chennai,Cash on Delivery,Cancelled
+ORD0500,CUST0119,Arjun Rao,2026-04-24 00:00:00,Headphones,Electronics,4,2999,0.1,Delhi,Credit Card,Delivered
+ORD0252,CUST0074,Priya Nair,2026-06-23 00:00:00,Desk Lamp,Home Office,2,999,0.0,,UPI,Cancelled
+ORD0499,CUST0002,Neha Kapoor,2026-01-22 00:00:00,USB-C Hub,Accessories,3,1799,0.1,Bengaluru,UPI,Delivered
+ORD0468,CUST0084,Neha Kapoor,2026-08-30 00:00:00,Monitor,Electronics,1,12999,0.2,Pune,Cash on Delivery,Delivered
+ORD0304,CUST0136,Neha Kapoor,2026-06-02 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Mumbai,Debit Card,Delivered
+ORD0351,CUST0055,Rohan Gupta,2026-02-16 00:00:00,Webcam,Electronics,4,2499,0.05,Mumbai,Cash on Delivery,Shipped
+ORD0270,CUST0070,Rohan Gupta,INVALID_DATE,Laptop Stand,Accessories,3,1499,0.15,Chennai,UPI,Processing
+ORD0202,CUST0134,Arjun Rao,2026-07-22 00:00:00,Keyboard,Accessories,1,1299,0.05,Kolkata,Credit Card,Delivered
+ORD0162,CUST0122,Priya Nair,2026-02-23 00:00:00,USB-C Hub,Accessories,2,1799,0.1,Bengaluru,Debit Card,Delivered
+ORD0044,CUST0130,,2026-01-17 00:00:00,Monitor,Electronics,3,12999,0.0,Bengaluru,Debit Card,Shipped
+ORD0218,CUST0119,Rahul Sharma,2026-04-14 00:00:00,Wireless Mouse,Accessories,2,799,0.1,Chennai,Debit Card,Cancelled
+ORD0402,CUST0065,Sneha Iyer,2026-04-23 00:00:00,USB-C Hub,Accessories,2,1799,0.2,Mumbai,UPI,Delivered
+ORD0191,CUST0028,,2026-07-24 00:00:00,Desk Lamp,Home Office,1,999,0.0,Mumbai,Cash on Delivery,Cancelled
+ORD0310,CUST0039,Rahul Sharma,2026-01-12 00:00:00,Headphones,Electronics,3,2999,0.0,Kolkata,Credit Card,Shipped
+ORD0260,CUST0056,Rahul Sharma,2026-06-19 00:00:00,Monitor,Electronics,3,12999,0.2,Mumbai,,Returned
+ORD0106,CUST0014,Neha Kapoor,2026-04-25 00:00:00,Wireless Mouse,Accessories,1,799,0.1,Kolkata,Debit Card,Delivered
+ORD0054,CUST0089,Neha Kapoor,2026-08-25 00:00:00,Headphones,Electronics,4,2999,0.2,Bengaluru,Cash on Delivery,Delivered
+ORD0390,CUST0127,Sneha Iyer,2026-03-23 00:00:00,Headphones,Electronics,1,2999,0.2,Delhi,Debit Card,Delivered
+ORD0002,CUST0088,Karan Mehta,2026-04-10 00:00:00,Keyboard,Accessories,3,1299,0.1,Pune,UPI,Returned
+ORD0451,CUST0134,Vikram Singh,2026-08-12 00:00:00,Monitor,Electronics,2,12999,0.2,Bengaluru,UPI,Shipped
+ORD0493,CUST0084,Sneha Iyer,2026-01-03 00:00:00,Headphones,Electronics,2,2999,1.5,KOLKATA,UPI,Shipped
+ORD0050,CUST0006,Sneha Iyer,2026-04-04 00:00:00,Monitor,Electronics,4,12999,0.1,Kolkata,Cash on Delivery,Shipped
+ORD0420,CUST0114,Ananya Das,2026-04-03 00:00:00,Webcam,Electronics,3,2499,0.1,Delhi,Credit Card,Delivered
+ORD0081,CUST0001,Karan Mehta,2026-02-23 00:00:00,Monitor,Electronics,3,12999,0.1,Kolkata,UPI,Cancelled
+ORD0206,CUST0006,Arjun Rao,2026-07-04 00:00:00,Keyboard,Accessories,4,1299,0.2,Delhi,,Delivered
+ORD0035,CUST0099,Rohan Gupta,2026-04-03 00:00:00,Keyboard,Accessories,4,1299,0.05,Pune,Credit Card,Delivered
+ORD0431,CUST0054,Sneha Iyer,2026-05-28 00:00:00,Wireless Mouse,Accessories,2,799,0.05,Pune,Credit Card,Shipped
+ORD0264,CUST0019,Sneha Iyer,2026-03-01 00:00:00,USB-C Hub,Accessories,2,1799,0.05,Bengaluru,Credit Card,Processing
+ORD0428,CUST0039,Arjun Rao,2026-05-16 00:00:00,USB-C Hub,Accessories,2,1799,0.1,Pune,UPI,Delivered
+ORD0367,CUST0072,Arjun Rao,2026-05-27 00:00:00,Headphones,Electronics,4,2999,0.1,Hyderabad,UPI,Delivered
+ORD0092,CUST0032,Priya Nair,2026-04-02 00:00:00,Laptop Stand,Accessories,4,1499,0.05,Mumbai,Credit Card,Delivered
+ORD0340,CUST0085,Rohan Gupta,2026-07-08 00:00:00,Keyboard,Accessories,1,1299,0.0,Bengaluru,Credit Card,Shipped
+ORD0484,CUST0054,Ananya Das,2026-04-11 00:00:00,Laptop Stand,Accessories,-1,1499,0.0,Mumbai,Cash on Delivery,Delivered
+ORD0053,CUST0129,Aisha Khan,2026-05-02 00:00:00,USB-C Hub,Accessories,1,1799,0.0,Kolkata,Credit Card,Delivered
+ORD0346,CUST0110,Sneha Iyer,2026-08-02 00:00:00,Monitor,Electronics,4,12999,0.2,Kolkata,Credit Card,Delivered
+ORD0265,CUST0069,,2026-08-15 00:00:00,Wireless Mouse,Accessories,1,799,0.15,Mumbai,UPI,Delivered
+ORD0242,CUST0128,Sneha Iyer,2026-03-21 00:00:00,USB-C Hub,Accessories,3,1799,0.05,Mumbai,Cash on Delivery,Shipped
+ORD0014,CUST0041,Vikram Singh,2026-07-20 00:00:00,Monitor,Electronics,2,12999,0.15,Mumbai,UPI,Delivered
+ORD0316,CUST0064,Aisha Khan,2026-04-08 00:00:00,USB-C Hub,Accessories,4,1799,0.1,Bengaluru,Credit Card,Shipped
+ORD0089,CUST0055,Ananya Das,2026-08-08 00:00:00,Laptop Stand,Accessories,1,1499,0.0,Chennai,Debit Card,Shipped
+ORD0388,CUST0045,Aisha Khan,2026-04-13 00:00:00,Desk Lamp,Home Office,1,999,0.15,Mumbai,UPI,Delivered
+ORD0274,CUST0047,Rohan Gupta,2026-02-24 00:00:00,Webcam,Electronics,3,2499,0.05,Pune,Credit Card,Delivered
+ORD0167,CUST0108,Arjun Rao,2026-08-10 00:00:00,Keyboard,Accessories,2,1299,0.05,Hyderabad,Debit Card,Delivered
+ORD0329,CUST0003,Rahul Sharma,2026-04-04 00:00:00,Wireless Mouse,Accessories,2,799,0.2,Pune,UPI,Cancelled
+ORD0415,CUST0115,Arjun Rao,2026-06-03 00:00:00,Headphones,Electronics,1,2999,0.15,,Cash on Delivery,Cancelled
+ORD0135,CUST0100,Sneha Iyer,2026-05-13 00:00:00,USB-C Hub,Accessories,3,1799,0.2,Kolkata,Credit Card,Processing
+ORD0307,CUST0095,Priya Nair,2026-01-11 00:00:00,Headphones,Electronics,1,2999,0.05,Kolkata,UPI,Cancelled
+ORD0491,CUST0104,Vikram Singh,2026-05-03 00:00:00,Monitor,Electronics,4,12999,0.0,Kolkata,Debit Card,Delivered
+ORD0320,CUST0020,Aisha Khan,2026-01-24 00:00:00,Webcam,Electronics,4,2499,0.1,Mumbai,UPI,Shipped
+ORD0244,CUST0055,Vikram Singh,2026-08-06 00:00:00,Monitor,Electronics,2,12999,0.1,Mumbai,Credit Card,Delivered
+ORD0055,CUST0069,Ananya Das,2026-04-03 00:00:00,Desk Lamp,Home Office,3,999,0.1,Hyderabad,Credit Card,Delivered
+ORD0364,CUST0021,Arjun Rao,2026-02-26 00:00:00,Headphones,Electronics,3,2999,0.2,Chennai,Credit Card,Processing
+ORD0051,CUST0124,Aisha Khan,2026-06-07 00:00:00,Webcam,Electronics,2,2499,0.1,Bengaluru,Cash on Delivery,Delivered
+ORD0466,CUST0125,Priya Nair,2026-01-17 00:00:00,Webcam,Electronics,3,2499,0.1,Delhi,UPI,Returned
+ORD0175,CUST0039,Neha Kapoor,2026-08-29 00:00:00,Monitor,Electronics,4,12999,0.15,Chennai,Credit Card,Delivered
+ORD0446,CUST0057,Rahul Sharma,2026-04-28 00:00:00,Keyboard,Accessories,1,1299,0.05,Chennai,Cash on Delivery,Delivered
+ORD0190,CUST0038,Neha Kapoor,2026-05-13 00:00:00,Desk Lamp,Home Office,4,-500,0.05,Mumbai,Credit Card,Returned
+ORD0250,CUST0143,Rahul Sharma,2026-03-17 00:00:00,Monitor,Electronics,1,12999,0.05,Kolkata,Debit Card,Shipped
+ORD0464,CUST0090,Rohan Gupta,2026-03-17 00:00:00,Desk Lamp,Home Office,3,999,0.1,Chennai,UPI,Cancelled
+ORD0188,CUST0105,Neha Kapoor,2026-03-08 00:00:00,Wireless Mouse,Accessories,3,799,0.1,Hyderabad,UPI,Cancelled
+ORD0170,CUST0025,Priya Nair,2026-03-30 00:00:00,Desk Lamp,Home Office,2,999,0.15,Kolkata,Debit Card,Returned
+ORD0059,CUST0147,Aisha Khan,2026-04-06 00:00:00,Wireless Mouse,Accessories,2,799,0.0,Chennai,UPI,Delivered
+ORD0049,CUST0101,Rahul Sharma,2026-01-08 00:00:00,Headphones,Electronics,3,2999,0.2,Hyderabad,Cash on Delivery,Returned
+ORD0345,CUST0099,Arjun Rao,2026-03-04 00:00:00,Keyboard,Accessories,2,1299,0.0,Kolkata,UPI,Delivered
+ORD0236,CUST0001,Rohan Gupta,2026-03-05 00:00:00,Keyboard,Accessories,4,1299,,Hyderabad,UPI,Shipped
+ORD0253,CUST0117,Aisha Khan,2026-06-02 00:00:00,Desk Lamp,Home Office,2,999,0.15,Chennai,Credit Card,Delivered
+ORD0022,CUST0137,Karan Mehta,2026-08-13 00:00:00,Monitor,Electronics,2,12999,0.1,Mumbai,Cash on Delivery,Delivered
+ORD0314,CUST0019,Vikram Singh,2026-06-06 00:00:00,Monitor,Electronics,2,12999,0.15,Kolkata,UPI,Processing
+ORD0460,CUST0015,Aisha Khan,2026-01-21 00:00:00,Desk Lamp,Home Office,2,999,0.2,Pune,Credit Card,Cancelled
+ORD0161,CUST0098,Rohan Gupta,2026-02-22 00:00:00,Monitor,Electronics,2,12999,0.05,Chennai,UPI,Delivered
+ORD0277,CUST0150,Priya Nair,2026-07-19 00:00:00,USB-C Hub,Accessories,2,1799,0.0,Chennai,Cash on Delivery,Delivered
+ORD0444,CUST0087,Priya Nair,2026-05-17 00:00:00,USB-C Hub,Accessories,1,1799,0.15,Mumbai,Debit Card,Delivered
+ORD0192,CUST0115,Aisha Khan,2026-03-08 00:00:00,Headphones,Electronics,1,2999,0.05,Delhi,UPI,Delivered
+ORD0386,CUST0011,Arjun Rao,2026-05-19 00:00:00,Webcam,Electronics,4,-500,0.2,Kolkata,Credit Card,Delivered
+ORD0294,CUST0082,Karan Mehta,2026-06-22 00:00:00,Webcam,Electronics,2,2499,0.15,Bengaluru,Debit Card,Delivered
+ORD0414,CUST0005,Rahul Sharma,2026-07-03 00:00:00,Monitor,Electronics,4,12999,0.15,Bengaluru,Credit Card,Delivered
+ORD0344,CUST0125,Vikram Singh,2026-03-27 00:00:00,Desk Lamp,Home Office,3,999,0.15,Kolkata,Cash on Delivery,Delivered
+ORD0258,CUST0106,Sneha Iyer,2026-06-07 00:00:00,Desk Lamp,Home Office,4,999,0.05,Mumbai,UPI,Returned
+ORD0309,CUST0032,Arjun Rao,2026-06-23 00:00:00, Webcam ,Electronics,4,2499,0.0,Chennai,Debit Card,Shipped
+ORD0150,CUST0067,Arjun Rao,2026-04-07 00:00:00,Laptop Stand,Accessories,3,1499,0.15,Kolkata,Cash on Delivery,Delivered
+ORD0131,CUST0038,Sneha Iyer,2026-04-19 00:00:00,Laptop Stand,Accessories,2,1499,0.15,Kolkata,UPI,Delivered
+ORD0152,CUST0055,Priya Nair,2026-01-07 00:00:00,Webcam,Electronics,2,2499,0.05,Kolkata,UPI,Delivered
+ORD0360,CUST0034,Rohan Gupta,2026-02-20 00:00:00,Laptop Stand,Accessories,1,1499,0.05,Mumbai,Debit Card,Shipped
+ORD0100,CUST0144,Neha Kapoor,2026-05-12 00:00:00,Keyboard,Accessories,2,1299,0.15,Bengaluru,Debit Card,Cancelled
+ORD0373,CUST0110,Ananya Das,2026-06-18 00:00:00,Laptop Stand,Accessories,1,1499,0.2,Pune,,Delivered
+ORD0088,CUST0059,Rahul Sharma,2026-07-24 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Mumbai,UPI,Delivered
+ORD0459,CUST0026,,2026-04-24 00:00:00,Laptop Stand,Accessories,3,1499,0.2,Hyderabad,Cash on Delivery,Delivered
+ORD0331,CUST0049,Karan Mehta,2026-03-15 00:00:00,Webcam,Electronics,4,2499,0.2,Hyderabad,Credit Card,Shipped
+ORD0215,CUST0080,Ananya Das,2026-03-27 00:00:00,Desk Lamp,Home Office,3,999,0.15,Hyderabad,UPI,Delivered
+ORD0467,CUST0008,Aisha Khan,2026-01-08 00:00:00,Wireless Mouse,Accessories,3,799,0.15,Kolkata,Credit Card,Shipped
+ORD0122,CUST0094,Rahul Sharma,2026-03-10 00:00:00,Headphones,Electronics,3,2999,0.15,Hyderabad,Credit Card,Delivered
+ORD0294,CUST0082,Karan Mehta,2026-06-22 00:00:00,Webcam,Electronics,2,2499,0.15,Bengaluru,Debit Card,Delivered
+ORD0021,CUST0129,Rohan Gupta,2026-01-27 00:00:00,Monitor,Electronics,2,12999,0.0,Hyderabad,UPI,Cancelled
+ORD0189,CUST0076,Aisha Khan,2026-01-09 00:00:00,Laptop Stand,Accessories,2,1499,0.0,Chennai,Debit Card,Delivered
+ORD0072,CUST0076,Rohan Gupta,2026-03-15 00:00:00,Wireless Mouse,Accessories,3,799,0.05,Hyderabad,UPI,Delivered
+ORD0107,CUST0018,Aisha Khan,2026-02-07 00:00:00,Monitor,Electronics,4,12999,0.1,Delhi,Debit Card,Delivered
+ORD0271,CUST0027,Karan Mehta,2026-01-08 00:00:00,USB-C Hub,Accessories,1,1799,0.05,Delhi,Credit Card,Delivered
+ORD0349,CUST0023,Rohan Gupta,2026-05-03 00:00:00,Monitor,Electronics,4,12999,0.05,Delhi,Debit Card,Delivered
+ORD0436,CUST0137,Priya Nair,2026-06-21 00:00:00,Keyboard,Accessories,3,1299,0.15,Hyderabad,Credit Card,Cancelled
+ORD0103,CUST0078,Aisha Khan,2026-02-14 00:00:00,Headphones,Electronics,2,2999,0.1,,Credit Card,Processing
